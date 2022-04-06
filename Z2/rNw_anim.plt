@@ -15,7 +15,7 @@ reset
 set term gif animate \
     font 'Arial,24' \
     size 1000,1000
-    animacija = sprintf("rNw_%i_%i_%i.gif", b, sk, Nk)
+    animacija = sprintf("Z2-1.gif", b, sk, Nk)
     set output animacija
 
     set xlabel 'x / mm'
