@@ -1,0 +1,57 @@
+
+
+*******************************************************************************
+Thu Mar 24 09:17:32 2022
+
+
+FIT:    data read from 'Z2-3.txt' u 1:2
+        format = x:z
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: (fx)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu Mar 24 09:17:54 2022
+
+
+FIT:    data read from 'Z2-3.txt' u 1:2
+        format = x:z
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.79775e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 231.229
+
+initial set of free parameter values
+
+D               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 556.02
+rel. change during last iteration : -3.05136e-10
+
+degrees of freedom    (FIT_NDF)                        : 200
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66736
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7801
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = 1.51018          +/- 0.0005086    (0.03368%)
+
+
+correlation matrix of the fit parameters:
+
+               D      
+D               1.000 
